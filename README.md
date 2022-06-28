@@ -1,6 +1,7 @@
 <h1 align="center"> ustvgo_to_m3u </h1>
 
 Grabs m3u links from ustvgo.tv
+[ALL credits to benmoose39]
 
 **NEW UPDATE: If you hate setting up cron jobs, just execute `server.py` (based on Flask, yes it's a webserver) and leave it running.**
 
@@ -39,3 +40,5 @@ If you need help setting up the script, connect: https://discord.gg/dmgYmAEdee
 ### Support
 
 🙂 https://www.buymeacoffee.com/benmoose39
+
+[ALL credits to benmoose39]
